@@ -1,0 +1,1 @@
+SEAL-3970 ticket type check test 1783279084
