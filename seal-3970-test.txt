@@ -1,0 +1,2 @@
+SEAL-3970 ticket type check test 1783279084
+sync test 1783307346
